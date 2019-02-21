@@ -1,1 +1,1 @@
-#define CHANGELOG_REV		"$Revision: 6815 $"
+Revision: 6815
