@@ -1,0 +1,10 @@
+﻿/***** DONT REMOVE OR MODIFY THE FOLLOWING 7 LINES! *****/
+#define CHANGELOG_REVNUM	((unsigned int)(0 ? $Revision: 6815 $RevisionEnd))
+#	define $Revision		0
+#	define $RevisionEnd		
+#define CHANGELOG_REV		"$Revision: 6815 $"
+#define CHANGELOG_ID		"$Id: ChangeLog.txt 6815 2018-07-09 02:56:03Z ccli0 $"
+#define CHANGELOG_BUILD		"$Build: "__DATE__" "__TIME__ " $"
+#define CHANGELOG_RELEASE	"r3"	/* Alpha: a, Beta: b, RC: rc, Release, r */
+#define FIRMWARE_PREV_REVNUM	6814
+/********************************************************/
