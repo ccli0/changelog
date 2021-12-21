@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/eclipse.cdt.debug.gdbjtag.ui_7.1.0.202112211041.jar" id="eclipse.cdt.debug.gdbjtag.ui" version="7.1.0.202112211041">
+      <category name="CDT_category"/>
+   </feature>
+   <category-def name="CDT_category" label="CDT Category"/>
+</site>
